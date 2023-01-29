@@ -1,0 +1,94 @@
+.logo{
+    width: 50%;
+    
+}
+
+.position{
+    position: relative;
+}
+.resim{
+    background-image: url(hücre.jpg);
+    background-repeat: none;
+   background-size: cover;
+   
+}
+.kenarlık{
+border: solid 5px white;
+}
+.laborant{
+    height: 500px;
+}
+.duz-cerceve{
+    border:3px solid white;
+    position: absolute;
+	width: 350px;
+	height:405px;
+    left: 10%;
+   bottom: 25px;
+   
+overflow-x: hidden;
+margin-right: 10%;
+
+}
+
+.footer{
+    /* background-color:#2A3990 ; */
+    background-image: url(./footer-bg.png);
+
+}
+
+
+
+.social-networks  i{
+    color: white;
+    font-size: 2em;
+}
+.copyright{
+    color: white;
+}
+
+#İletişim i{
+    color: white;
+  font-size: large;
+}
+#yazı p{
+    color: white;
+}
+ul{
+    
+  display: flex;
+}
+.font{
+    font-size: 60px;
+
+}
+li{
+    list-style-type: none;
+    display: inline;
+    position: relative;
+    
+}
+
+.social-text{
+    color: white;
+}
+
+
+  @media(max-width: 500px) {
+    #container .duz-cerceve{
+        margin-top: 4px;
+        margin-right: 25px;
+        width: 250px;
+        bottom: 50px;
+        height: 450px;
+         position: absolute;
+    top: 3px;
+    ;
+    }
+   #container .duz-cerceve h2{
+        color: white;
+    }
+    
+    
+  }
+  
