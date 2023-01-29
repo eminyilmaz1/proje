@@ -1,0 +1,65 @@
+#liste li{
+    list-style-type: none;
+}
+   
+
+
+
+.carousel-item img{
+    height: 500px;
+}
+h5{
+    color: red;
+}
+i{
+    color: red;
+}
+p i{
+    font-size: 48px;
+    padding: 20px;
+    color: white;
+}
+p{
+    color: white;
+}
+.resim{
+    background-color:cornsilk
+
+   
+}
+#yazı p{
+    color: black;
+}
+button i{
+    color: white;
+}
+
+#heart p{
+    color: black;
+}
+.cerceve{
+    border: solid pink 0.5px;
+    background-color: pink;
+    opacity: 0.8;;
+}
+#Hipertansiyon p{
+    color: black;
+}
+.arka-plan{
+    
+    background-color: pink;
+    opacity: 0.8;
+}
+
+
+.footer{
+background-image: url(./12.png);
+}
+#footer i{
+    color: white;
+    font-size: 50px;
+}
+#footer li{
+    list-style-type:none ;
+    color: white;
+}
